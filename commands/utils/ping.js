@@ -2,8 +2,8 @@ const { MessageEmbed } = require('discord.js');
 
 module.exports = {
   name: 'ping',
-  description: 'Renvoie pong',
-  run: (client, message, args) => {
+  description: 'Renvoie pong et le ping du bot',
+  run(client, message, args) {
     const embed = new MessageEmbed()
       .setTitle('🏓 Pong !')
       .setThumbnail(client.user.displayAvatarURL())
@@ -16,7 +16,7 @@ module.exports = {
     
     message.channel.send({ embeds: [embed] });
   },
-  runSlash: (client, interaction) => {
+  runSlash(client, interaction) {
     const embed = new MessageEmbed()
       .setTitle('🏓 Pong !')
       .setThumbnail(client.user.displayAvatarURL())
