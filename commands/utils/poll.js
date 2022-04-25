@@ -11,7 +11,7 @@ module.exports = {
       .setColor('#00a3b5')
       .setDescription('✅ Oui\n\n❌ Non')
       .setTimestamp()
-      .setFooter({ text: `Nouveau sondage Vrai ou Faux créé par ${message.author.tag} !` });
+      .setFooter({ text: `Nouveau sondage créé par ${message.author.tag} !` });
 
     const poll = await message.reply({ embeds: [embed] });
     poll.react('✅');
