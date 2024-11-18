@@ -1,6 +1,6 @@
 # Handler Bot Discord.js v13
 
-Il s'agissait de la version de développement en cours du bot "SeitanBot" qui est actuellement abandonnée. L'entièreté du code est fonctionnelle, le handler également, il ne reste plus que à ajouter des commandes.
+Il s'agissait d'une version de développement du bot "SeitanBot" qui est actuellement abandonnée. L'entièreté du code est fonctionnelle, le handler également, il ne reste plus que à ajouter des commandes.
 
 **Bien que cette version du code reste fonctionnelle, discord a modifier leur librairie pour n'inclure uniquement des commandes slash `/` autrement dit, la partie du code avec les commandes préfix ne marcheront plus.*
 
