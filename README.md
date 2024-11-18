@@ -21,12 +21,12 @@ Avant de l'exécuter, créer votre bot/application sur [discord](https://discord
 
 **Dernière version (et unique version) :** 0.1.0
 
-Liste des versions : [Cliquer pour afficher](https://github.com/seitanmeitoo/handler-bot-discord.js-v13/tags)
+Liste des versions : [Cliquer pour afficher](https://github.com/seitanmeitoo/handler-discord.js-v13/tags)
 
 ## Auteurs
 * **Seitan_Karpoo** _alias_ [@seitanmeitoo](https://github.com/seitanmeitoo)
 
-Lisez la liste des [contributeurs](https://github.com/seitanmeitoo/handler-bot-discord.js-v13/contributors) pour voir qui à aidé au projet !
+Lisez la liste des [contributeurs](https://github.com/seitanmeitoo/handler-discord.js-v13/contributors) pour voir qui à aidé au projet !
 
 ## License
 
